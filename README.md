@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi there, welcome to J's personal GitHub! 👋
 
-<!--
-**jlbouche/jlbouche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Currently working on 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Personal website
+* Simple React apps (weather app, DND character sheet app, etc.)
+
+### Currently learning 
+
+* Bootstrap
+* Clojure (reading: Clojure for the Brave and True)
+
+### Previous projects
+
+* [DecideMyDinner - your restaurant-search-randomizer!](http://dmdbeyond.herokuapp.com/)
+* [Neighbor - a volunteer app connecting neighbors](http://bemyneighbor.herokuapp.com/)
+* [PokeHub - a Pokemon indexing site for Pokemon Researchers-in-training](https://pokehubproject.herokuapp.com/)
+* [Mario Memory - a Mario-themed matching game](https://jlbouche.github.io/Mario_Matching_Game/)
+
+### How to reach me
+
+[LinkedIn](https://www.linkedin.com/in/jenna-bouche/)
