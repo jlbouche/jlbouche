@@ -3,13 +3,13 @@
 
 ### Currently working on 
 
-* Personal website
-* Simple React apps (weather app, DND character sheet app, etc.)
+* Blockchain website
+* Hydrangea Hackathon
 
 ### Currently learning 
 
-* Bootstrap
-* Clojure (reading: Clojure for the Brave and True)
+* Blockchain
+* SASS
 
 ### Previous projects
 
