@@ -3,13 +3,13 @@
 
 ### Currently working on 
 
-* Blockchain website
-* Hydrangea Hackathon
+* Ecommerce website
+* Python bootcamp
 
 ### Currently learning 
 
+* Ecommerce
 * Blockchain
-* SASS
 
 ### Previous projects
 
