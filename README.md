@@ -3,16 +3,17 @@
 
 ### Currently working on 
 
-* Ecommerce website
-* Python bootcamp
+* Space-travel website
+* Instagram clone
 
 ### Currently learning 
 
-* Ecommerce
+* Typescript
 * Blockchain
 
 ### Previous projects
 
+* [My Portfolio](https://jbouche-portfolio.herokuapp.com/)
 * [DecideMyDinner - your restaurant-search-randomizer!](http://dmdbeyond.herokuapp.com/)
 * [Neighbor - a volunteer app connecting neighbors](http://bemyneighbor.herokuapp.com/)
 * [PokeHub - a Pokemon indexing site for Pokemon Researchers-in-training](https://pokehubproject.herokuapp.com/)
