@@ -4,12 +4,12 @@
 ### Currently working on 
 
 * Space-travel website
-* Instagram clone
+* Social media site using Socket.io
 
 ### Currently learning 
 
 * Typescript
-* Blockchain
+* Nextjs
 
 ### Previous projects
 
