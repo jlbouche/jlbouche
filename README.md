@@ -3,8 +3,8 @@
 
 ### Currently working on 
 
-* Space-travel website
-* Social media site using Socket.io
+* E-commerce site (MERN)
+* Social media site using Socket.io (MERN/Nextjs)
 
 ### Currently learning 
 
